@@ -9,7 +9,7 @@ This repository contains project work for Udacity's [Full Stack Web Developer Na
 - **Project 1** - [Movie Trailer Website](https://github.com/j-sho/Udacity_Project1)
 - **Project 2** - [Build a Portfolio Site](https://github.com/j-sho/Project_2)
 - **Project 3** - [Multi User Blog](https://github.com/j-sho/Udacity-Project-3)
-- **Project 4** - [Tournament Results](https://github.com/j-sho/Udacuty_Project4)
+- **Project 4** - [Tournament Results](https://github.com/j-sho/Udacuty_Project4/tree/master/vagrant/tournament)
 - **Project 5** - [Item Catalog](https://github.com/j-sho/Udacity_Project5/tree/master/vagrant/catalog)
 - **Project 6** - [Neighborhood Map](https://github.com/j-sho/Udacity_Project6)
 - **Project 7** - [Linux Server Configuration](https://github.com/j-sho/Udacity-Linux-Server-Configuration)

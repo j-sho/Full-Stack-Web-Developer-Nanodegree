@@ -3,7 +3,7 @@
 ![Certificate](https://github.com/j-sho/Full-Stack-Web-Developer-Nanodegree/blob/master/Udacity_Shorina_certificate-1%202.png)
 
 ## About
-This repository contains project work for Udacity's [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) from the February 2017 cohort.
+This repository contains projects for Udacity's [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004) from the February 2017.
 
 ## Projects
 - **Project 1** - [Movie Trailer Website](https://github.com/j-sho/Udacity_Project1)
